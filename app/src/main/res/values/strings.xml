@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="enter_the_keyword">Enter The Keyword</string>
+    <string name="search">Search</string>
+    <string name="api_key">AIzaSyBptaHKhtS0ChPgoGFje4cV-rICGb2S_Lo</string>
+</resources>
